@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ServletDynamicRegistration">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServletDynamicRegistration</output-path>
+    <root id="archive" name="ServletDynamicRegistration.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ServletDynamicRegistration" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ServletDynamicRegistration/web/Web" />
+    </root>
+  </artifact>
+</component>
